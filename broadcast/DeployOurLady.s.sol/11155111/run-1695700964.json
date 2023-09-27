@@ -1,0 +1,53 @@
+{
+  "transactions": [
+    {
+      "hash": "0xa85700bcbe6501e4b165af90b54f73ab7ea1ccb2292f3960f6bf511bd60e5fe0",
+      "transactionType": "CREATE",
+      "contractName": "OurLady",
+      "contractAddress": "0xF28d8f9F6e3F4f9ED1BEcf2a2f00ABB4Dbc0965F",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x5a7d23f9334928b4b1701a74a5a663d4e79e32f5",
+        "gas": "0x19885",
+        "value": "0x0",
+        "data": "0x6080604052348015600f57600080fd5b50607d8061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c806332cb6b0c14602d575b600080fd5b603561271081565b60405190815260200160405180910390f3fea26469706673582212204842babfb587a07570b5a702193a51eebbc606942cf3b310e26d2ccdf3e18b1364736f6c63430008150033",
+        "nonce": "0x0",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0xa85700bcbe6501e4b165af90b54f73ab7ea1ccb2292f3960f6bf511bd60e5fe0",
+      "transactionIndex": "0x1",
+      "blockHash": "0xba2cf5c988502352fad223a8ef187324870ec263a7576123d314e0123c751d96",
+      "blockNumber": "0x429ce8",
+      "from": "0x5a7d23f9334928b4b1701A74a5a663d4e79e32f5",
+      "to": null,
+      "cumulativeGasUsed": "0x262f5",
+      "gasUsed": "0x13a49",
+      "contractAddress": "0xF28d8f9F6e3F4f9ED1BEcf2a2f00ABB4Dbc0965F",
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x2",
+      "effectiveGasPrice": "0xb2e13cb8"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "returns": {
+    "0": {
+      "internal_type": "contract OurLady",
+      "value": "0xF28d8f9F6e3F4f9ED1BEcf2a2f00ABB4Dbc0965F"
+    }
+  },
+  "timestamp": 1695700964,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "daf1bb7"
+}
